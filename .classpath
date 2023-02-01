@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/jars/selenium-api-3.9.1.jar" sourcepath="C:/Users/Lenovo/.m2/repository/org/seleniumhq/selenium/selenium-api/3.9.1/selenium-api-3.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-chrome-driver-3.9.1.jar" sourcepath="C:/Users/Lenovo/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.9.1/selenium-chrome-driver-3.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-edge-driver-3.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-firefox-driver-3.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-ie-driver-3.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-java-3.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-opera-driver-3.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-remote-driver-3.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-safari-driver-3.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-support-3.9.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
